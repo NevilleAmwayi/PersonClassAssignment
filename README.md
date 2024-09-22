@@ -38,7 +38,7 @@ Installation Guide
 
     ```bash
 
-cd PersonClassAssignment
+    cd PersonClassAssignment
 
 3. Run the program:
 
